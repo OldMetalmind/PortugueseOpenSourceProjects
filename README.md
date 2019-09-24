@@ -11,7 +11,6 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :----------: | :----------: | :----------: | :----------: |
 | FogosPT | [github](https://github.com/fogosPT/) | Fires in Portugal but also suppressed scheduled trains, and village security  | [:earth_africa:](https://fogos.pt/) [:earth_asia:](https://suprimidos.pt/) |
-| VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
 
 ### Political
 
@@ -31,4 +30,4 @@ If you would like to contribute to this repository please check the [contributin
 | :----------: | :----------: | :----------: | :----------: |
 | Flutter Portugal | [github](https://github.com/FlutterPortugal) | Flutter SDK Portuguese Community | [:bird:](https://twitter.com/FlutterPortugal) |
 | Upframe | [github](https://github.com/upframe)|  Networking community for students | [:bird:](https://twitter.com/upframed) |  
-
+| VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
