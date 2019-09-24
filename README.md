@@ -17,6 +17,7 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :----------: | :----------: | :----------: | :----------: |
 | Hemiciclo |  | Brings citizens closer to the Assembly of the Republic | [:bird:](https://twitter.com/HemicicloPT) |
+| Politica Para Todos | [github](https://github.com/Politica-Para-Todos) | Promover a participação activa dos cidaçãos nos processos eleitorias em Portugal. | [:earth_africa:](https://www.politicaparatodos.pt/) [:bird:](https://twitter.com/politicaparatds)|
 
 ### Mobile
 
