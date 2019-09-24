@@ -24,3 +24,11 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :----------: | :----------: | :----------: | :----------: |
 | UnderLx | [github](https://github.com/underlx) | Unofficial Lisbon Metro website and Android app | [:bird:](https://twitter.com/UnderLX)
+
+### Communities
+
+| Name | Repository | Description | Links |
+| :----------: | :----------: | :----------: | :----------: |
+| Flutter Portugal | [github](https://github.com/FlutterPortugal) | Flutter SDK Portuguese Community | [:bird:](https://twitter.com/FlutterPortugal) |
+| Upframe | [github](https://github.com/upframe)|  Networking community for students | [:bird:](https://twitter.com/upframed) |  
+
