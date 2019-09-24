@@ -7,34 +7,35 @@ If you would like to contribute to this repository please check the [contributin
 ## Categories
 
 ### Open Data
+
 | Name | Repository | Description | Links |
-| :----------: | :----------: | :----------: | :----------: |
+| :---------- | :---------- | :---------- | :---------- |
 | Central de Dados | [github](https://github.com/centraldedados) | Open repository of Open Data in Portugal | [:earth_africa:](http://centraldedados.pt/) | 
 
 ### Civil Protection
 
 | Name | Repository | Description | Links |
-| :----------: | :----------: | :----------: | :----------: |
+| :---------- | :---------- | :---------- | :---------- |
 | FogosPT | [github](https://github.com/fogosPT/) | Fires in Portugal but also suppressed scheduled trains, and village security  | [:earth_africa:](https://fogos.pt/) [:earth_asia:](https://suprimidos.pt/) |
 
 ### Political
 
 | Name | Repository | Description | Links |
-| :----------: | :----------: | :----------: | :----------: |
+| :---------- | :---------- | :---------- | :---------- |
 | Hemiciclo |  | Brings citizens closer to the Assembly of the Republic | [:bird:](https://twitter.com/HemicicloPT) |
 | Politica Para Todos | [github](https://github.com/Politica-Para-Todos) | Promover a participação activa dos cidaçãos nos processos eleitorias em Portugal. | [:earth_africa:](https://www.politicaparatodos.pt/) [:bird:](https://twitter.com/politicaparatds)|
 
 ### Mobile
 
 | Name | Repository | Description | Links |
-| :----------: | :----------: | :----------: | :----------: |
+| :---------- | :---------- | :---------- | :---------- |
 | UnderLx | [github](https://github.com/underlx) | Unofficial Lisbon Metro website and Android app | [:bird:](https://twitter.com/UnderLX)
 
 ### Communities
 
 | Name | Repository | Description | Links |
-| :----------: | :----------: | :----------: | :----------: |
+| :---------- | :---------- | :---------- | :---------- |
 | Flutter Portugal | [github](https://github.com/FlutterPortugal) | Flutter SDK Portuguese Community | [:bird:](https://twitter.com/FlutterPortugal) |
 | Upframe | [github](https://github.com/upframe)|  Networking community for students | [:bird:](https://twitter.com/upframed) |  
 | VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
-| Improve Coimbra | [github](https://github.com/ImproveCoimbra) | Every month, in Coimbra, a group of people get together to try to solve city problems | [:earth_africa:](https://improvecoimbra.org) | 
+| Improve Coimbra | [github](https://github.com/ImproveCoimbra) | Group of people get together to try to solve city problems | [:earth_africa:](https://improvecoimbra.org) |
