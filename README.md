@@ -31,6 +31,12 @@ If you would like to contribute to this repository please check the [contributin
 | :---------- | :---------- | :---------- | :---------- |
 | UnderLx | [github](https://github.com/underlx) | Unofficial Lisbon Metro website and Android app | [:bird:](https://twitter.com/UnderLX)
 
+### Web
+
+| Name | Repository | Description | Links |
+| :---------- | :---------- | :---------- | :---------- |
+| React Kawaii | [github](https://github.com/miukimiu/react-kawaii) | Cute SVG React Components | [:earth_africa:](https://react-kawaii.now.sh/)
+
 ### Communities
 
 | Name | Repository | Description | Links |
