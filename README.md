@@ -11,6 +11,10 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :---------- | :---------- | :---------- | :---------- |
 | Central de Dados | [github](https://github.com/centraldedados) | Open repository of Open Data in Portugal | [:earth_africa:](http://centraldedados.pt/) | 
+| Awesome-Portugal-Data | [github](https://github.com/rgllm/awesome-portugal-data) | Curated list of Portuguese 🇵🇹 datasets.
+|  
+
+
 
 ### Civil Protection
 
