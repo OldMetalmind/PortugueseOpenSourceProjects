@@ -52,3 +52,4 @@ If you would like to contribute to this repository please check the [contributin
 | Upframe | [github](https://github.com/upframe)|  Networking community for students | [:bird:](https://twitter.com/upframed) |  
 | VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
 | Improve Coimbra | [github](https://github.com/ImproveCoimbra) | Group of people get together to try to solve city problems | [:earth_africa:](https://improvecoimbra.org) |
+| DateWithData | | Monthly Meetup in Porto to tackle Data Projects | [:earth_africa:](https://datewithdata.pt/)
