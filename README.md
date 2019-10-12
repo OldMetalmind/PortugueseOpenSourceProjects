@@ -12,9 +12,6 @@ If you would like to contribute to this repository please check the [contributin
 | :---------- | :---------- | :---------- | :---------- |
 | Central de Dados | [github](https://github.com/centraldedados) | Open repository of Open Data in Portugal | [:earth_africa:](http://centraldedados.pt/) | 
 | Awesome-Portugal-Data | [github](https://github.com/rgllm/awesome-portugal-data) | Curated list of Portuguese 🇵🇹 datasets.
-|  
-
-
 
 ### Civil Protection
 
@@ -40,6 +37,12 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :---------- | :---------- | :---------- | :---------- |
 | React Kawaii | [github](https://github.com/miukimiu/react-kawaii) | Cute SVG React Components | [:earth_africa:](https://react-kawaii.now.sh/)
+
+### Privacy
+
+| Name | Repository | Description | Links | 
+| :---------- | :---------- | :---------- | :---------- |
+| Envelop | [github](https://github.com/envelop-app) | Share private files easily, without losing their ownership. | [:earth_africa:](https://envelop.app/)
 
 ### Communities
 
