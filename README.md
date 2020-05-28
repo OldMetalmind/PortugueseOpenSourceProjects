@@ -19,6 +19,11 @@ If you would like to contribute to this repository please check the [contributin
 | :---------- | :---------- | :---------- | :---------- |
 | FogosPT | [github](https://github.com/fogosPT/) | Fires in Portugal but also suppressed scheduled trains, and village security  | [:earth_africa:](https://fogos.pt/) [:earth_asia:](https://suprimidos.pt/) |
 
+### Government
+| Name | Repository | Description | Links |
+| :---------- | :---------- | :---------- | :---------- |
+| EstamosOn | [github-mobile](https://github.com/vostpt/covid19-mobile) | Official app for COVID-19  | [:earth_africa:](https://covid19estamoson.gov.pt/) |
+
 ### Political
 
 | Name | Repository | Description | Links |
@@ -31,6 +36,7 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :---------- | :---------- | :---------- | :---------- |
 | UnderLx | [github](https://github.com/underlx) | Unofficial Lisbon Metro website and Android app | [:bird:](https://twitter.com/UnderLX)
+| EstamosOn App | [github](https://github.com/vostpt/covid19-mobile) | Official app for the COVID-19  | [:earth_africa:](https://fogos.pt/) [:earth_asia:](https://suprimidos.pt/) |
 
 ### Web
 
