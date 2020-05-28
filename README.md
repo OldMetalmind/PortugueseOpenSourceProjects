@@ -53,7 +53,6 @@ If you would like to contribute to this repository please check the [contributin
 | VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
 | Improve Coimbra | [github](https://github.com/ImproveCoimbra) | Group of people get together to try to solve city problems | [:earth_africa:](https://improvecoimbra.org) |
 | TransparênciaHackday | [github](https://github.com/transparenciahackday) | Monthly Meetup in Porto to tackle Data Projects | [:earth_africa:](https://datewithdata.pt/) [:earth_asia:](http://www.transparenciahackday.org/) [:bird:](https://twitter.com/thackdaypt) |
-| Ubuntu Portugal | [gitlab](https://gitlab.com/ubuntu-pt) | Ubuntu community of Portugal| [:earth_africa:](https://ubuntu-pt.org/ ) | 
-
-
+| Ubuntu Portugal | [gitlab](https://gitlab.com/ubuntu-pt) | Ubuntu Portuguese community| [:earth_africa:](https://ubuntu-pt.org/ ) [:bird:](https://twitter.com/ubuntuportugal) |
+| Laravel Portugal | [github](https://github.com/laravel-portugal) | PHP Laravel Portuguese community | [:earth_africa:](https://www.laravel.pt/) [:bird:](https://twitter.com/LaravelPortugal) [:microphone:](https://laravelportugal.simplecast.com/)|
 
