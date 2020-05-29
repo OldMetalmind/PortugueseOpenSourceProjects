@@ -45,31 +45,30 @@ If you would like to contribute to this repository please check the [contributin
 
 ### Privacy
 
-| Name | Repository | Description | Links | License | 
+| Name | Repository | Description | Links | License |
 | :---------- | :---------- | :---------- | :---------- | :---------- |
 | Envelop | [github](https://github.com/envelop-app) | Share private files easily, without losing their ownership. | [:earth_africa:](https://envelop.app/) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Multimedia
 
-| Name | Repository | Description | Links | License | 
+| Name | Repository | Description | Links | License |
 | :---------- | :---------- | :---------- | :---------- | :---------- |
 | Qtractor | [github](https://github.com/rncbc/qtractor) | An Audio/MIDI multi-track sequencer | [:earth_africa:](https://qtractor.sourceforge.io/) | [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) |
 
-
 ### Podcasts
 
-| Name | Links | 
-| :---------- | :---------- |
-| LaravelPortugal |[:microphone:](https://laravelportugal.simplecast.com/)|
-| Ubuntu Portugal|[:microphone:](https://podcastubuntuportugal.org/)|
-
+| Name | Repository | Description | Links |
+| :---------- | :---------- | :---------- | :---------- |
+| LaravelPortugal | | | [:microphone:](https://laravelportugal.simplecast.com/)|
+| Ubuntu Portugal | | | [:microphone:](https://podcastubuntuportugal.org/)|
+| White Market Podcast | [github](https://github.com/WhiteMarketPodcast) | Podcast about free music and free culture. | [:microphone:](https://www.whitemarketpodcast.eu/)
 
 ### Communities & Organizations
 
 | Name | Repository | Description | Links |
 | :---------- | :---------- | :---------- | :---------- |
-| ANSOL | | National Association for Free Software | [:earth_africa:](https://ansol.org/) [:bird:](https://twitter.com/ANSOL)
-| ESOP | | National Association for Open Source Companies | [:earth_africa:](https://www.esop.pt/) [:bird:](https://twitter.com/esop_pt)
+| ANSOL | - | National Association for Free Software | [:earth_africa:](https://ansol.org/) [:bird:](https://twitter.com/ANSOL)
+| ESOP | - | National Association for Open Source Companies | [:earth_africa:](https://www.esop.pt/) [:bird:](https://twitter.com/esop_pt)
 | Flutter Portugal | [github](https://github.com/FlutterPortugal) | Flutter SDK Portuguese Community | [:bird:](https://twitter.com/FlutterPortugal) |
 | Upframe | [github](https://github.com/upframe)|  Networking community for students | [:bird:](https://twitter.com/upframed) |  
 | VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
@@ -79,5 +78,5 @@ If you would like to contribute to this repository please check the [contributin
 | Laravel Portugal | [github](https://github.com/laravel-portugal) | PHP Laravel Portuguese community | [:earth_africa:](https://www.laravel.pt/) [:bird:](https://twitter.com/LaravelPortugal)|
 | FogosPT | [github](https://github.com/FogosPT) | FogosPT is the organization that manages FogosPT and Suprimidos projects, they do have other smaller helpful projects | [:bird:](https://twitter.com/fogospt) [:bird:](https://twitter.com/SuprimidosPT) |
 | UnderLx | [github](https://github.com/underlx) | UnderLx organization manages UnderLx project | [:bird:](https://twitter.com/fogospt) [:bird:](https://twitter.com/SuprimidosPT) |
-
-
+| CoderDojo LX | - | Informal group to teach kids between 7 to 17 to code |  [:earth_africa:](https://www.coderdojo-lx.pt/) [:bird:](https://twitter.com/CoderDojoLX)
+| Drupal Portugal | - | Drupal Portuguese Community | [:bird:](https://twitter.com/drupalportugal)
