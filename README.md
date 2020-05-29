@@ -24,7 +24,7 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links | License |
 | :---------- | :---------- | :---------- | :---------- | :---------- |
 | Hemiciclo |  | Brings citizens closer to the Assembly of the Republic | [:bird:](https://twitter.com/HemicicloPT) |
-| Politica Para Todos | [github](https://github.com/Politica-Para-Todos) | Promover a participação activa dos cidaçãos nos processos eleitorias em Portugal. | [:earth_africa:](https://www.politicaparatodos.pt/) [:bird:](https://twitter.com/politicaparatds)|
+| Politica Para Todos | [github](https://github.com/Politica-Para-Todos) | To promote ative citizentip in the electoral process in Portugal | [:earth_africa:](https://www.politicaparatodos.pt/) [:bird:](https://twitter.com/politicaparatds)|
 
 ### Mobile
 
@@ -82,3 +82,6 @@ If you would like to contribute to this repository please check the [contributin
 | UnderLx | [github](https://github.com/underlx) | UnderLx organization manages UnderLx project | [:bird:](https://twitter.com/fogospt) [:bird:](https://twitter.com/SuprimidosPT) |
 | CoderDojo LX | - | Informal group to teach kids between 7 to 17 to code |  [:earth_africa:](https://www.coderdojo-lx.pt/) [:bird:](https://twitter.com/CoderDojoLX)
 | Drupal Portugal | - | Drupal Portuguese Community | [:bird:](https://twitter.com/drupalportugal)
+| Wikimedia Portugal | - | Portuguese Chapter of Wikimedia Foundation  | [:bird:](https://twitter.com/wikimediapt)
+
+
