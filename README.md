@@ -42,6 +42,11 @@ If you would like to contribute to this repository please check the [contributin
 | React Kawaii | [github](https://github.com/miukimiu/react-kawaii) | Cute SVG React Components | [:earth_africa:](https://react-kawaii.now.sh/) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 | FogosPt Web | [github](https://github.com/FogosPT/fogospt) | Web app of fires happening in Portugal  | [:earth_africa:](https://fogos.pt/) [:bird:](https://twitter.com/fogospt) | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 | Suprimidos Web | [github](https://github.com/FogosPT/suprimidos.pt) | Web app of suppressed trains of portugal  | [:earth_africa:](https://suprimidos.pt/) [:bird:](https://twitter.com/SuprimidosPT) |
+| JantaradaPt | [github](https://github.com/ImproveCoimbra/jantarada) | Developed by Improve Coimbra to help restaurants accept take-outs  | [:earth_africa:](https://jantarada.pt/) | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+ | 
+
+
 
 ### Privacy
 
