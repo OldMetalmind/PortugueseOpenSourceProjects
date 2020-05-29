@@ -60,6 +60,7 @@ If you would like to contribute to this repository please check the [contributin
 | Name | Repository | Description | Links |
 | :---------- | :---------- | :---------- | :---------- |
 | LaravelPortugal | | | [:microphone:](https://laravelportugal.simplecast.com/)|
+| LinuxTech | | | [:microphone:](https://linuxtech.pt/)|
 | Ubuntu Portugal | | | [:microphone:](https://podcastubuntuportugal.org/)|
 | White Market Podcast | [github](https://github.com/WhiteMarketPodcast) | Podcast about free music and free culture. | [:microphone:](https://www.whitemarketpodcast.eu/)
 
@@ -74,6 +75,7 @@ If you would like to contribute to this repository please check the [contributin
 | VOST Portugal | [github](https://github.com/vostpt/) | Digital Volunteers in Emergency Situations | [:earth_africa:](https://vost.pt) [:bird:](https://twitter.com/VOSTPT) |
 | Improve Coimbra | [github](https://github.com/ImproveCoimbra) | Group of people get together to try to solve city problems | [:earth_africa:](https://improvecoimbra.org) |
 | TransparênciaHackday | [github](https://github.com/transparenciahackday) | Monthly Meetup in Porto to tackle Data Projects | [:earth_africa:](https://datewithdata.pt/) [:earth_asia:](http://www.transparenciahackday.org/) [:bird:](https://twitter.com/thackdaypt) |
+| LinuxTech | [gitlab](https://gitlab.com/linuxtechpt) | LinuxTech community| [:earth_africa:](https://linuxtech.pt/ )[:bird:](https://twitter.com/Linuxtechpt) |
 | Ubuntu Portugal | [gitlab](https://gitlab.com/ubuntu-pt) | Ubuntu Portuguese community| [:earth_africa:](https://ubuntu-pt.org/ ) [:bird:](https://twitter.com/ubuntuportugal) |
 | Laravel Portugal | [github](https://github.com/laravel-portugal) | PHP Laravel Portuguese community | [:earth_africa:](https://www.laravel.pt/) [:bird:](https://twitter.com/LaravelPortugal)|
 | FogosPT | [github](https://github.com/FogosPT) | FogosPT is the organization that manages FogosPT and Suprimidos projects, they do have other smaller helpful projects | [:bird:](https://twitter.com/fogospt) [:bird:](https://twitter.com/SuprimidosPT) |
