@@ -85,8 +85,7 @@ If you would like to contribute to this repository please check the [contributin
 | Laravel Portugal | [github](https://github.com/laravel-portugal) | PHP Laravel Portuguese community | [:earth_africa:](https://www.laravel.pt/) [:bird:](https://twitter.com/LaravelPortugal)|
 | FogosPT | [github](https://github.com/FogosPT) | FogosPT is the organization that manages FogosPT and Suprimidos projects, they do have other smaller helpful projects | [:bird:](https://twitter.com/fogospt) [:bird:](https://twitter.com/SuprimidosPT) |
 | UnderLx | [github](https://github.com/underlx) | UnderLx organization manages UnderLx project | [:bird:](https://twitter.com/fogospt) [:bird:](https://twitter.com/SuprimidosPT) |
-| CoderDojo LX | - | Informal group to teach kids between 7 to 17 to code |  [:earth_africa:](https://www.coderdojo-lx.pt/) [:bird:](https://twitter.com/CoderDojoLX)
-| Drupal Portugal | - | Drupal Portuguese Community | [:bird:](https://twitter.com/drupalportugal)
-| Wikimedia Portugal | - | Portuguese Chapter of Wikimedia Foundation  | [:earth_africa:](https://pt.wikimedia.org/wiki/Wikimedia_Portugal) [:bird:](https://twitter.com/wikimediapt)
-
-
+| CoderDojo LX | - | Informal group to teach kids between 7 to 17 to code |  [:earth_africa:](https://www.coderdojo-lx.pt/) [:bird:](https://twitter.com/CoderDojoLX) |
+| Drupal Portugal | - | Drupal Portuguese Community | [:bird:](https://twitter.com/drupalportugal)|
+| Wikimedia Portugal | - | Portuguese Chapter of Wikimedia Foundation  | [:earth_africa:](https://pt.wikimedia.org/wiki/Wikimedia_Portugal) [:bird:](https://twitter.com/wikimediapt) |
+| GLUA | [github](https://github.com/GLUA-UA) | University of Aveiro Linux Group  | [:earth_africa:](https://glua.ua.pt/) [:bird:](https://twitter.com/GLUA) |
