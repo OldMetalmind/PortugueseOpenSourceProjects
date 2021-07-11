@@ -46,6 +46,8 @@ If you would like to contribute to this repository please check the [contributin
 | Suprimidos Web | [github](https://github.com/FogosPT/suprimidos.pt) | Web app of suppressed trains of portugal  | [:earth_africa:](https://suprimidos.pt/) [:bird:](https://twitter.com/SuprimidosPT) |
 | JantaradaPt | [github](https://github.com/ImproveCoimbra/jantarada) | Developed by Improve Coimbra to help restaurants accept take-outs  | [:earth_africa:](https://jantarada.pt/) | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 | Portuguese Tech Events | [github](https://github.com/cmota/tech-events-portugal/) | Developed by [@cafonsomota](https://twitter.com/cafonsomota) | [:earth_africa:](https://cmota.github.io/tech-events-portugal/) | [![License: CC0](https://mirrors.creativecommons.org/presskit/logos/cc.logo.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+| Estirador | [github](https://github.com/Bartmr/estirador) | An ever improving boilerplate that supports updates | [:earth_africa:](https://bartolomeu-rodrigues.com/estirador/) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+| Not-Me | [github](https://github.com/Bartmr/not-me) | Easy, type-safe and full-stack validation done right | [:earth_africa:](https://github.com/Bartmr/not-me) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Privacy
 
